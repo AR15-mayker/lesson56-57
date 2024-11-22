@@ -297,7 +297,7 @@ begin
   begin
     writeln('Ошибка: a должно быть меньше b.');
     exit;
-  end;
+  end; 
 
   Randomize;
   for i := 1 to 5 do
