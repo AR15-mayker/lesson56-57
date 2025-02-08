@@ -82,30 +82,58 @@
 
  Ответ: 132.
 
-13) ![alt text](image-4.png)
+## 12) 
 
-14) ![alt text](image-5.png)
+![alt text](image-3.png)
 
-15) ![alt text](image-7.png)
+## 13) 
 
-16) ![alt text](image-8.png)
+![alt text](image-4.png)
 
-17) ![alt text](image-9.png)
+## 14) 
 
-18) ![alt text](image-10.png)
+![alt text](image-5.png)
 
-18) ![alt text](image-11.png)
+## 15) 
 
-19) ![alt text](image-12.png)
+![alt text](image-6.png)
 
-20) ![alt text](image-13.png)
+## 16) 
 
-21) ![alt text](image-14.png)
+![alt text](image-7.png)
 
-22) ![alt text](image-15.png)
+## 17) 
 
-23) ![alt text](image-16.png)
+![alt text](image-8.png)
 
-24) ![alt text](image-17.png)
+## 18) 
 
-25) ![alt text](image-18.png)
+![alt text](image-9.png)
+
+## 19) 
+
+![alt text](image-10.png)
+
+## 20) 
+
+![alt text](image-11.png)
+
+## 21) 
+
+![alt text](image-12.png)
+
+## 22) 
+
+![alt text](image-13.png)
+
+## 23) 
+
+![alt text](image-14.png)
+
+## 24) 
+
+![alt text](image-15.png)
+
+## 25) 
+
+![alt text](image-17.png)
